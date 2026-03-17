@@ -521,7 +521,8 @@ footer{
     text-align: center;
 }
 
-    .header-container h1{
+    .header-container h1, .section-header{
     font-size: 42px;
+    line-height: 40px;
     }
 }
