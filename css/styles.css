@@ -520,4 +520,8 @@ footer{
     .news-container .section-header{
     text-align: center;
 }
+
+    .header-container h1{
+    font-size: 42px;
+    }
 }
